@@ -373,14 +373,14 @@ await fetch('/api/login/complete', {
 ---
 
 ## 许可证
-ISC © [flun](https://github.com/OpenFlun)
+ISC © [flun](https://github.com/AtFlun)
 
 ---
 
 ## 贡献
 
-- [GitHub 仓库](https://github.com/OpenFlun/webauthn-server)
-- [gitee 仓库](https://gitee.com/openflun/webauthn-server)
+- [GitHub 仓库](https://github.com/AtFlun/webauthn-server)
+- [gitee 仓库](https://gitee.com/AtFlun/webauthn-server)
 - [npm 包页面](https://www.npmjs.com/package/@flun/webauthn-server)
 - [配套前端库 @flun/webauthn-browser](https://www.npmjs.com/package/@flun/webauthn-browser)
 

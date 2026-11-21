@@ -38,25 +38,25 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OpenFlun/webauthn-server.git"
+    "url": "git+https://github.com/AtFlun/webauthn-server.git"
   },
   "gitee": {
     "type": "git",
-    "url": "git+https://gitee.com/openflun/webauthn-server.git"
+    "url": "git+https://gitee.com/AtFlun/webauthn-server.git"
   },
-  "homepage": "https://github.com/OpenFlun/webauthn-server#readme",
+  "homepage": "https://github.com/AtFlun/webauthn-server#readme",
   "bugs": {
-    "url": "https://github.com/OpenFlun/webauthn-server/issues"
+    "url": "https://github.com/AtFlun/webauthn-server/issues"
   },
   "license": "ISC",
   "dependencies": {
     "@hexagon/base64": "^2.0.4",
     "@levischuck/tiny-cbor": "^0.3.6",
-    "@peculiar/asn1-android": "^3.0.0",
-    "@peculiar/asn1-ecc": "^3.0.0",
-    "@peculiar/asn1-rsa": "^3.0.0",
-    "@peculiar/asn1-schema": "^3.0.0",
-    "@peculiar/asn1-x509": "^3.0.0",
+    "@peculiar/asn1-android": "^3.1.0",
+    "@peculiar/asn1-ecc": "^3.1.0",
+    "@peculiar/asn1-rsa": "^3.1.0",
+    "@peculiar/asn1-schema": "^3.1.0",
+    "@peculiar/asn1-x509": "^3.1.0",
     "@peculiar/x509": "^3.1.0",
     "reflect-metadata": "^0.2.2"
   },
@@ -68,7 +68,7 @@
     "@types/node": "^26.6.6"
   },
   "optionalDependencies": {
-    "@flun/passport-desktop-win32-x64-msvc": "1.0.10",
-    "@flun/passport-desktop-win32-ia32-msvc": "1.0.10"
+    "@flun/passport-desktop-win32-x64-msvc": "1.0.11",
+    "@flun/passport-desktop-win32-ia32-msvc": "1.0.11"
   }
 }
